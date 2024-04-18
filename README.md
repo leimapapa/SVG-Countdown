@@ -11,7 +11,7 @@ SVG-only countdown clock. One call starts the SVG animation
 Use it by pointing it to your element:
 
 ```javascript
-initCountdown(document.querySelector('#myElement'));
+initCountdown(document.querySelector('#myElement'), {color: '#fff', dotColor: '#fff', sec: 30}));
 ```
 
 ## CDN
