@@ -1,7 +1,7 @@
 # SVG-Countdown
 SVG-only countdown clock. One call starts the SVG animation
 
-
+<img src="noon.svg" title="High noon example" height="100px">
 ## Dependencies
 
 * None babay!
