@@ -26,7 +26,7 @@ initCountdown(document.querySelector('#myElement'),
     goldOutline: false, //whether or not to add the fancy gold outline
     font: 'Roboto, sans-serif', //default font
     fontWeight: 600, //default number thickness
-    id: getUUID() //uuid to be added the clockItToMe clock svg id 
+    id: getUUID() //uuid generated to be added the clockItToMe clock svg id (add your own instead if you like)
   }
 );
 ```
